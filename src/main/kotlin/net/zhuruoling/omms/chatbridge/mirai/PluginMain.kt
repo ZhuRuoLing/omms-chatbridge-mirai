@@ -40,7 +40,7 @@ object PluginMain : KotlinPlugin(
                     if (broadcast.broadcastType != BroadcastType.QQ) {
                         val groups = mutableListOf<Group>()
                         for (group in Config.groups) {
-                            groups.add(bot.getGroup(group) ?: continue)
+                            groups.add(b.getGroup(group) ?: continue)
                         }
                         for (group in groups) {
                             runBlocking {
