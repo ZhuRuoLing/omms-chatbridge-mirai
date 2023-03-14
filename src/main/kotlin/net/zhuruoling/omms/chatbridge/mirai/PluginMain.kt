@@ -9,7 +9,6 @@ import net.mamoe.mirai.contact.Group
 import net.mamoe.mirai.event.events.BotOnlineEvent
 import net.mamoe.mirai.event.events.GroupMessageEvent
 import net.mamoe.mirai.event.globalEventChannel
-import net.mamoe.mirai.event.subscribeAlways
 import net.mamoe.mirai.utils.info
 import net.zhuruoling.omms.chatbridge.mirai.network.broadcast.Broadcast
 import net.zhuruoling.omms.chatbridge.mirai.network.broadcast.BroadcastType
