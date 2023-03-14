@@ -1,0 +1,1 @@
+rootProject.name = "omms-chatbridge-mirai"

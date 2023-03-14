@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/build/
+/.idea/
+/test/
+/out/
+/run/
+/config/
+/data/
+/logs/
+/plugin-libraries/
+/plugin-shared-libraries/
+/plugins/
+/bots/
